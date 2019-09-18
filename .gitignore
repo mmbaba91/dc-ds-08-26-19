@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+<<<<<<< HEAD
+module-1/week-2/day-2-pandas-3/EXTR_RPSale.csv
+=======
+>>>>>>> ca0ef0cb9102ff0e81ab0e1aa4c021f7d14759c6
+module-1/week-2/day-2-pandas-3/Real\ Property\ Sales.zip
 # Distribution / packaging
 .Python
 build/
